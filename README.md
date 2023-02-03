@@ -1,4 +1,4 @@
-### 책임감 있는 개발자 👋
+### 실무적인 개발자 👋
 
 <!--
 **benz9411/benz9411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
