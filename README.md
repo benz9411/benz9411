@@ -1,5 +1,5 @@
 ### 실무적인 개발자 👋
-
+💬 [이력서] https://unleashed-lemming-29b.notion.site/AI-7629570fe30f499eb72306c1c9379275
 <!--
 **benz9411/benz9411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
